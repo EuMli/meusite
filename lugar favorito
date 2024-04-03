@@ -40,7 +40,7 @@ html
         <h1>Bem-vindo ao Site de Hemelly</h1>
     </header>
     <div class="container">
-        <img src="praia_itapoa.jpg" alt="Imagem">
+        <img src="praia_itapoa.jpg" alt="praia_itapoa.jpg">
         <h2>Quem sou eu?</h2>
         <p>Olá! Meu nome é Hemelly e este é o meu site.</p>
         <h2>Lugar Favorito</h2>
